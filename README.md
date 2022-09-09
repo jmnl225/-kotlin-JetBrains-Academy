@@ -9,6 +9,6 @@ kotlin study at JetBrains Academy
 ![study](https://github.com/jmnl225/-kotlin-JetBrains-Academy/blob/main/Data%20types.png)
 
 ### 22/09/09
-![study](https://github.com/jmnl225/-kotlin-JetBrains-Academy/blob/main/Standard%output.png)
+![study](https://github.com/jmnl225/-kotlin-JetBrains-Academy/blob/main/Standard%20output.png)
 
 ----
